@@ -50,7 +50,7 @@
 <h2>Overview📌</h2>
 <p>This repository contains my project on a Travel Website✈️ using HTML, CSS and JavaScript. It features a landing page for a travel tour company website. Finding the perfect travel destination can be a challenge. This project aims to streamline that process🚤. We welcome all contributions to make this a fantastic resource for travelers. Jump in and contribute to this grand project! Read the guidelines📚 and get started building!</p>
 
-<h2>Live Project -- https://apu52.github.io/Travel_Website/</h2>
+<h2>Live Project --</h2>
 <h2>Features</h2>
 
 - **Introductory Page**: Welcomes visitors with an engaging introductory page that highlights the essence of our travel website and sets the tone for exploration.
